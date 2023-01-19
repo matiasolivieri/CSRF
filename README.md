@@ -128,10 +128,6 @@ if (!tokens.verify(secret, token)) {
 }
 ```
 
-## License
-
-[MIT](LICENSE)
-
 [coveralls-image]: https://badgen.net/coveralls/c/github/pillarjs/csrf/master
 [coveralls-url]: https://coveralls.io/r/pillarjs/csrf?branch=master
 [node-image]: https://badgen.net/npm/node/csrf
